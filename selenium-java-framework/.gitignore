@@ -1,0 +1,21 @@
+target/
+reports/
+logs/
+.idea/
+.vscode/
+*.iml
+*.class
+*.log
+.DS_Store
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Screenshots
+screenshots/
+
+# Extent Reports
+ExtentReports/
+
+# OS
+Thumbs.db
